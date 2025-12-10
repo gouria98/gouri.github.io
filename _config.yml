@@ -123,6 +123,10 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
+  - name: LinkedIn Post
+    posts: 
+      - url: https://www.linkedin.com/feed/update/urn:li:activity:7400958186666700800/
+      - published_date: 2025-11-26
   - name: Harrison Lab News
     posts:
       - url: https://chsharrison.wordpress.com/2025/05/07/phd-student-gouri-anil-presents-her-research-on-impacts-of-sai-on-coral-bleaching-at-the-global-reef-futures-symposium-in-mexico/
