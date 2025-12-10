@@ -2,7 +2,7 @@
 layout: post
 title: "Impacts of Stratospheric Aerosol Injection on Coral Bleaching talk at Reef Futures 2024, Mexico"
 description: ""
-external_url: "https://chsharrison.wordpress.com/2025/05/07/phd-student-gouri-anil-presents-her-research-on-impacts-of-sai-on-coral-bleaching-at-the-global-reef-futures-symposium-in-mexico/"
+redirect: "https://chsharrison.wordpress.com/2025/05/07/phd-student-gouri-anil-presents-her-research-on-impacts-of-sai-on-coral-bleaching-at-the-global-reef-futures-symposium-in-mexico/"
 categories: blog
 ---
 In December 2024, I attended the global Reef Futures Symposium in Mexico to present my doctoral research. Reef Futures is the only global symposium focused solely on the interventions and actions necessary to allow coral reefs to thrive into the next century.
