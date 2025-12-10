@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Gouri Anil # the website title (if blank, full name will be used instead)
+title: GOURI ANIL # the website title (if blank, full name will be used instead)
 first_name: Gouri
 middle_name:
 last_name: Anil
@@ -126,7 +126,7 @@ external_sources:
   - name: LinkedIn Post
     posts: 
       - url: https://www.linkedin.com/feed/update/urn:li:activity:7400958186666700800/
-      - published_date: 2025-11-26
+        published_date: 2025-11-26
   - name: Harrison Lab News
     posts:
       - url: https://chsharrison.wordpress.com/2025/05/07/phd-student-gouri-anil-presents-her-research-on-impacts-of-sai-on-coral-bleaching-at-the-global-reef-futures-symposium-in-mexico/
