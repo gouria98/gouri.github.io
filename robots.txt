@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://gouri.github.io/sitemap.xml
+Sitemap: https://gouria98.github.io/sitemap.xml
