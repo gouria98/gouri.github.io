@@ -1,6 +1,6 @@
 ---
 layout: page
-enabled: false
+enabled: true
 title: news
 permalink: /news/
 ---
