@@ -123,13 +123,29 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
+  - name: AGU Eos
+    posts:
+      - url: https://eos.org/articles/could-solar-aerosol-injection-help-save-corals-from-bleaching
+        published_date: 2025-12-10
   - name: Harrison Lab News
     posts:
       - url: https://chsharrison.wordpress.com/2025/05/07/phd-student-gouri-anil-presents-her-research-on-impacts-of-sai-on-coral-bleaching-at-the-global-reef-futures-symposium-in-mexico/
         published_date: 2025-05-07
       - url: https://chsharrison.wordpress.com/2024/12/21/potential-impacts-of-climate-interventions-on-marine-ecosystems-is-available-for-preprint-on-ess-open-archive/
         published_date: 2024-12-21
-
+    - name: The Hindu
+    posts:
+      - url: https://www.thehindu.com/news/national/telangana/marine-heat-waves-may-be-favouring-more-cyclones-in-the-arabian-sea-incois-scientists/article66982524.ece
+        published_date: 2023-06-19
+   - name: Times of India
+     posts:
+       -url: https://timesofindia.indiatimes.com/city/kochi/at-least-20-marine-heatwave-days-in-arabian-sea-during-last-decade/articleshow/92069017.cms
+        published_date: 2022-06-08
+    - name: Mongabay
+      posts:
+       -url: https://india.mongabay.com/2022/06/the-arabian-sea-faces-an-increased-frequency-and-duration-of-marine-heatwave-days-finds-study/
+        published_date: 2022-06-01
+    
 
 # -----------------------------------------------------------------------------
 # Newsletter
