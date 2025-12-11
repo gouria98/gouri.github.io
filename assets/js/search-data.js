@@ -45,8 +45,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
-            },},{id: "news-my-research-on-the-potential-role-of-solar-aerosol-injection-in-reducing-coral-bleaching-was-featured-in-agu-eos-i-will-be-presenting-this-research-at-agu-2025-fall-meeting-on-15th-december-gc12a-03-and-17th-december-gc32e-02",
-          title: 'My research on the potential role of solar aerosol injection in reducing coral...',
+            },},{id: "news-doctoral-research-featured-in-agu-eos",
+          title: 'Doctoral research featured in AGU Eos.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
