@@ -35,10 +35,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
@@ -48,7 +45,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
-            },},{id: "projects-project-1",
+            },},{id: "news-my-research-on-the-potential-role-of-solar-aerosol-injection-in-reducing-coral-bleaching-was-featured-in-agu-eos-i-will-be-presenting-this-research-at-agu-2025-fall-meeting-on-15th-december-gc12a-03-and-17th-december-gc32e-02",
+          title: 'My research on the potential role of solar aerosol injection in reducing coral...',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
