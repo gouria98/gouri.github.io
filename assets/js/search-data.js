@@ -49,7 +49,7 @@ ninja.data = [{
           title: 'Research Highlight in AGU Eos',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_1/";
+              window.location.href = "/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
