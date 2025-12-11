@@ -53,6 +53,12 @@ socials_in_search: false
 posts_in_search: false
 bib_search: true
 
+latest_news:
+  enabled: true
+  limit: 2      # how many news items to show on the homepage
+  scrollable: false
+
+
 # Dimensions
 max_width: 930px
 
